@@ -24,6 +24,7 @@
   "devDependencies": {
     "@vitejs/plugin-react": "^4.6.0",
     "openmoji": "^17.0.0",
+    "serve": "^14.2.6",
     "sharp": "^0.34.3",
     "vite": "^7.0.5"
   }
